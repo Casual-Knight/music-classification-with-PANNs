@@ -1,6 +1,6 @@
 from sklearn import metrics
 
-from pytorch_utils import forward
+from utils import forward
 
 
 class Evaluator(object):
